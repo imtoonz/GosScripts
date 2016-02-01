@@ -1,6 +1,6 @@
 require("inspired")
 
-Self.itemsIds = {
+itemsIds = {
 
 	[2003] = "Hpot" }
 
